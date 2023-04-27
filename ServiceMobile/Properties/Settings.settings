@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServiceMobile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="docPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\\\wms-mgn.m74.local\\docs\\</Value>
+    </Setting>
+    <Setting Name="smartServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wms-mgn:10501/41306b12-e42e-4bb9-8621-f7d4826ad003</Value>
+    </Setting>
+    <Setting Name="sqlServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

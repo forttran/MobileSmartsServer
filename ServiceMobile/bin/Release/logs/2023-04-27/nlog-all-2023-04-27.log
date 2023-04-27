@@ -1,0 +1,961 @@
+2023-04-27 08:58:53.8572|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 08:59:16.5083|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 08:59:16.5583|DEBUG|ServiceMobile.Service1|work
+2023-04-27 08:59:18.2373|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 08:59:18.2373|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 08:59:18.2373|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 08:59:18.2373|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 08:59:22.9177|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 08:59:22.9177|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 08:59:22.9177|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 08:59:22.9177|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=396
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 08:59:22.9437|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 08:59:23.0412|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 08:59:23.0442|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 08:59:23.0572|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 08:59:33.0643|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 08:59:33.0643|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 08:59:33.0643|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 08:59:33.0643|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 08:59:43.0757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 08:59:43.0757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 08:59:43.0757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 08:59:43.0757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 08:59:53.0834|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 08:59:53.0834|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 08:59:53.0834|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 08:59:53.0834|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:03.0932|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:03.0932|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:03.0932|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:03.0932|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:13.1106|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:13.1106|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:13.1106|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:13.1106|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:23.1230|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:23.1230|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:23.1230|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:23.1230|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:33.1413|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:33.1413|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:33.1413|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:33.1413|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:43.1570|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:43.1570|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:43.1570|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:43.1570|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:00:53.1757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:00:53.1757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:00:53.1757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:00:53.1757|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:03.1876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:03.1876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:03.1876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:03.1876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:13.2080|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:13.2080|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:13.2080|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:13.2080|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:23.2255|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:23.2255|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:23.2255|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:23.2255|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:33.2422|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:33.2422|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:33.2422|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:33.2422|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:43.2590|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:43.2590|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:43.2590|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:43.2590|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:01:53.2695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:01:53.2695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:01:53.2695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:01:53.2695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:03.2880|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:03.2880|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:03.2880|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:03.2880|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:13.3057|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:13.3057|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:13.3057|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:13.3057|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:23.3279|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:23.3279|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:23.3279|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:23.3279|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:33.3419|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:33.3419|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:33.3419|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:33.3419|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:43.3589|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:43.3589|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:43.3589|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:43.3589|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:02:53.3772|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:02:53.3772|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:02:53.3772|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:02:53.3772|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:03.3884|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:03.3884|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:03.3884|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:03.3884|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:13.3977|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:13.3977|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:13.3977|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:13.3977|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:23.4051|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:23.4051|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:23.4051|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:23.4051|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:33.4111|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:33.4111|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:33.4111|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:33.4111|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:43.4295|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:43.4295|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:43.4295|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:43.4295|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:03:53.4475|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:03:53.4485|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:03:53.4485|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:03:53.4485|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:03.4547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:03.4547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:03.4547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:03.4547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:13.4632|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:13.4632|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:13.4632|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:13.4632|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:23.4753|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:23.4753|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:23.4753|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:23.4753|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:33.4877|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:33.4877|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:33.4877|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:33.4877|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:43.4945|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:43.4945|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:43.4945|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:43.4945|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:04:53.5066|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:04:53.5066|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:04:53.5066|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:04:53.5066|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:03.5233|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:03.5233|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:03.5233|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:03.5233|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:13.5369|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:13.5369|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:13.5369|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:13.5369|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:23.5452|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:23.5452|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:23.5452|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:23.5452|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:33.5531|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:33.5531|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:33.5531|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:33.5531|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:43.5695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:43.5695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:43.5695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:43.5695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:05:53.5858|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:05:53.5858|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:05:53.5858|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:05:53.5858|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:03.5936|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:03.5936|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:03.5936|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:03.5936|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:13.6112|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:13.6112|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:13.6112|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:13.6112|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:23.6173|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:23.6173|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:23.6173|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:23.6173|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:33.6364|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:33.6364|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:33.6364|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:33.6364|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:43.6480|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:43.6480|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:43.6480|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:43.6480|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:06:53.6674|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:06:53.6674|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:06:53.6674|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:06:53.6674|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:03.6876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:03.6876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:03.6876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:03.6876|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:13.7062|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:13.7062|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:13.7062|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:13.7062|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:23.7333|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:23.7333|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:23.7333|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:23.7333|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:33.7441|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:33.7441|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:33.7441|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:33.7441|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:43.7536|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:43.7536|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:43.7536|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:43.7536|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:07:53.7630|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:07:53.7630|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:07:53.7630|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:07:53.7630|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:03.7722|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:03.7722|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:03.7722|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:03.7722|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:13.7900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:13.7900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:13.7900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:13.7900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:23.8101|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:23.8101|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:23.8101|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:23.8101|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:33.8209|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:33.8209|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:33.8209|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:33.8209|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:43.8269|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:43.8269|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:43.8269|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:43.8269|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:08:53.8376|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:08:53.8376|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:08:53.8376|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:08:53.8376|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:03.8537|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:03.8547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:03.8547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:03.8547|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:13.8595|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:13.8595|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:13.8595|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:13.8595|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:23.8695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:23.8695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:23.8695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:23.8695|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:33.8792|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:33.8792|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:33.8792|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:33.8792|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:43.8900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:43.8900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:43.8900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:43.8900|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:09:53.9085|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:09:53.9085|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:09:53.9085|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:09:53.9085|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:03.9283|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:03.9283|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:03.9283|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:03.9283|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:13.9379|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:13.9379|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:13.9379|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:13.9379|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:23.9543|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:23.9543|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:23.9543|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:23.9543|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:33.9719|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:33.9719|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:33.9719|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:33.9719|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:43.9866|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:43.9866|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:43.9866|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:43.9866|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:10:54.0026|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:10:54.0026|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:10:54.0026|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:10:54.0026|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:04.0115|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:04.0115|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:04.0115|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:04.0115|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:14.0256|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:14.0256|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:14.0266|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:14.0266|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:24.0338|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:24.0338|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:24.0338|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:24.0338|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:34.0534|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:34.0534|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:34.0534|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:34.0534|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:44.0696|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:44.0696|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:44.0696|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:44.0696|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:11:54.0777|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:11:54.0777|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:11:54.0777|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:11:54.0777|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:12:04.0861|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:12:04.0861|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:12:04.0861|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:12:04.0861|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:12:14.1038|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:12:14.1038|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:12:14.1038|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:12:14.1038|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:12:24.1140|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:12:24.1140|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:12:24.1140|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:12:24.1140|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:12:24.3649|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:12:37.9199|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:12:37.9699|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:12:38.0999|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:12:38.0999|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:12:38.0999|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:12:38.0999|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:12:41.8296|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:12:41.8296|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:12:41.8296|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=396
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:12:41.8576|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:12:41.8713|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:12:51.8973|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:12:51.8973|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:12:51.8973|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:12:51.8973|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:13:01.9160|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:13:01.9160|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:13:01.9160|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:13:01.9160|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:13:11.9297|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:13:11.9297|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:13:11.9297|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:13:11.9297|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:13:21.9447|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:13:21.9447|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:13:21.9447|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:13:21.9447|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:13:31.9526|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:13:31.9526|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:13:31.9526|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:13:31.9526|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:13:37.6767|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:13:55.7038|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:13:55.7538|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:13:55.8928|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:13:55.8928|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:13:55.8928|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:13:55.8928|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:13:59.4886|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:13:59.4886|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:13:59.4886|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=396
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:13:59.5146|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:13:59.5286|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:09.5461|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:09.5461|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:09.5461|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:09.5461|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:19.5656|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:19.5656|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:19.5656|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:19.5656|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:29.5721|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:29.5721|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:29.5721|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:29.5721|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:39.5913|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:39.5913|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:39.5913|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:39.5913|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:49.6118|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:49.6118|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:49.6118|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:49.6118|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:14:59.6288|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58
+2023-04-27 09:14:59.6288|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12
+2023-04-27 09:14:59.6288|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17
+2023-04-27 09:14:59.6288|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42
+2023-04-27 09:15:01.6854|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:15:18.1033|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:15:18.1543|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:15:18.2973|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:15:18.2973|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:15:18.2973|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:15:18.2973|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:15:21.9549|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:15:21.9549|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:15:21.9549|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=396
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,754434826087963
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:15:21.9849|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,75497267931713
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,740328621331019
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:15:21.9954|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737256213668981
+2023-04-27 09:15:32.0223|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,754552377206019
+2023-04-27 09:15:32.0223|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755090230435185
+2023-04-27 09:15:32.0223|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,740446172449074
+2023-04-27 09:15:32.0223|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737373764787037
+2023-04-27 09:15:42.0381|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,754668301644676
+2023-04-27 09:15:42.0381|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755206154873843
+2023-04-27 09:15:42.0381|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,740562096887731
+2023-04-27 09:15:42.0381|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737489689225694
+2023-04-27 09:15:52.0489|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,754784167037037
+2023-04-27 09:15:52.0489|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755322020266204
+2023-04-27 09:15:52.0489|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,740677962280093
+2023-04-27 09:15:52.0489|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737605554618056
+2023-04-27 09:16:02.0562|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,754899992221065
+2023-04-27 09:16:02.0562|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755437845450231
+2023-04-27 09:16:02.0562|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,74079378746412
+2023-04-27 09:16:02.0562|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737721379802083
+2023-04-27 09:16:12.0682|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,755015871412037
+2023-04-27 09:16:12.0682|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755553724641204
+2023-04-27 09:16:12.0682|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,740909666655093
+2023-04-27 09:16:12.0682|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737837258993056
+2023-04-27 09:16:22.0763|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,7551316948125
+2023-04-27 09:16:22.0763|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755669548041667
+2023-04-27 09:16:22.0763|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,741025490055556
+2023-04-27 09:16:22.0763|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,737953082393519
+2023-04-27 09:16:32.0835|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,755247530106481
+2023-04-27 09:16:32.0835|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,755785383335648
+2023-04-27 09:16:32.0835|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,741141325349537
+2023-04-27 09:16:32.0835|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,7380689176875
+2023-04-27 09:16:42.0924|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,755363373739583
+2023-04-27 09:16:42.0924|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,75590122696875
+2023-04-27 09:16:42.0924|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,741257168982639
+2023-04-27 09:16:42.0924|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,738184761320602
+2023-04-27 09:16:49.1923|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:17:06.8204|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:17:06.8684|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:17:06.9924|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:17:06.9924|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:17:06.9924|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:17:06.9924|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:17:10.7263|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:17:10.7263|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:17:10.7263|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150858.csv
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=396
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:17:10.7523|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:58day=0,755693801399306
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_150812.csv
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:08:12day=0,756231654628472
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_152917.csv
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:17:10.7624|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:29:17day=0,741587596642361
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_26042023_153342.csv
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014803
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.ProductId=19815
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.ProductName=4601 Творог     ПАКЕТ 0%  0.45
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2005 0:00:00
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200405
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053594
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:17:10.7767|DEBUG|ServiceMobile.SmartMain|data=26.04.2023 15:33:42day=0,738515188980324
+2023-04-27 09:18:00.8510|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:18:00.8510|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_91840.csv
+2023-04-27 09:18:00.8510|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_91840.csv
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:18:00.8600|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=-0,00046365474537037
+2023-04-27 09:18:10.8757|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=-0,000347628219907407
+2023-04-27 09:18:20.8889|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=-0,000231734696759259
+2023-04-27 09:18:30.8945|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=-0,000115928453703704
+2023-04-27 09:18:40.9088|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=-2,28981481481481E-08
+2023-04-27 09:18:50.9216|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00011585431712963
+2023-04-27 09:19:00.9376|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,000231791813657407
+2023-04-27 09:19:01.8635|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:19:13.1825|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:19:13.2285|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:19:13.3455|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:19:13.3455|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:19:13.3455|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:19:13.3455|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:19:17.1266|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 09:19:17.1266|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_91840.csv
+2023-04-27 09:19:17.1266|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_91840.csv
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 09:19:17.1516|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,000418086229166667
+2023-04-27 09:19:27.1665|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,000535367538194444
+2023-04-27 09:19:37.1836|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,000651305899305556
+2023-04-27 09:19:47.2030|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,000767271211805556
+2023-04-27 09:19:51.9544|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 09:20:04.7080|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 09:20:04.7570|DEBUG|ServiceMobile.Service1|work
+2023-04-27 09:20:04.8801|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 09:20:04.8801|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 09:20:04.8801|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 09:20:04.8801|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 09:20:08.4469|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00101213168402778
+2023-04-27 09:20:18.4550|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00112898458680556
+2023-04-27 09:20:28.4705|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00124490455439815
+2023-04-27 09:20:38.5008|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00136099605787037
+2023-04-27 09:20:48.5087|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00147682786111111
+2023-04-27 09:20:58.5257|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00159276553587963
+2023-04-27 09:21:08.5346|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0017086091099537
+2023-04-27 09:21:18.5539|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00182456125578704
+2023-04-27 09:21:28.5709|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00194051085185185
+2023-04-27 09:21:38.5770|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00205632222222222
+2023-04-27 09:21:48.5876|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00217218549305556
+2023-04-27 09:21:58.6047|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00228812380324074
+2023-04-27 09:22:08.6250|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0024041003275463
+2023-04-27 09:22:18.6352|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00251995874884259
+2023-04-27 09:22:28.6520|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00263589382407407
+2023-04-27 09:22:38.6582|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00275170629166667
+2023-04-27 09:22:48.6646|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00286752121180556
+2023-04-27 09:22:58.6797|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00298343623958333
+2023-04-27 09:23:08.6974|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00309938199652778
+2023-04-27 09:23:18.7033|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00321519146990741
+2023-04-27 09:23:28.7159|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00333107767361111
+2023-04-27 09:23:38.7258|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00344693346180556
+2023-04-27 09:23:48.7441|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00356288629398148
+2023-04-27 09:23:58.7513|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00367870957060185
+2023-04-27 09:24:09.0437|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00379783468865741
+2023-04-27 09:24:19.0578|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00391373860185185
+2023-04-27 09:24:29.0724|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00402964876157407
+2023-04-27 09:24:39.0836|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00414551880439815
+2023-04-27 09:24:49.0921|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00426135810416667
+2023-04-27 09:24:59.1068|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00437726873263889
+2023-04-27 09:25:09.1172|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00449312949537037
+2023-04-27 09:25:19.1348|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00460907471643518
+2023-04-27 09:25:29.1431|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00472491129976852
+2023-04-27 09:25:39.1467|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0048406942650463
+2023-04-27 09:25:49.1598|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00495658565277778
+2023-04-27 09:25:59.1788|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00507254660185185
+2023-04-27 09:26:09.1974|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0051885031400463
+2023-04-27 09:26:19.2169|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00530446970717593
+2023-04-27 09:26:29.2219|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00542026781944444
+2023-04-27 09:26:39.2313|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00553611679398148
+2023-04-27 09:26:49.2440|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00565200453703704
+2023-04-27 09:26:59.2592|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00576792203587963
+2023-04-27 09:27:09.2657|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00588373748032407
+2023-04-27 09:27:19.2703|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00599953190625
+2023-04-27 09:27:29.2849|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00611544191435185
+2023-04-27 09:27:39.2987|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00623134188078704
+2023-04-27 09:27:49.3114|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00634722948148148
+2023-04-27 09:27:59.3232|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00646310723263889
+2023-04-27 09:28:09.3351|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00657898547685185
+2023-04-27 09:28:19.3455|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00669484692592593
+2023-04-27 09:28:29.3530|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00681067366782407
+2023-04-27 09:28:39.3623|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00692652253240741
+2023-04-27 09:28:49.3773|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00704243717361111
+2023-04-27 09:28:59.3847|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00715826294560185
+2023-04-27 09:29:09.4050|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00727423868287037
+2023-04-27 09:29:19.4208|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00739016213773148
+2023-04-27 09:29:29.4495|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00750623508449074
+2023-04-27 09:29:39.4649|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00762215404976852
+2023-04-27 09:29:49.4781|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00773804757638889
+2023-04-27 09:29:59.4856|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00785387497800926
+2023-04-27 09:30:09.5042|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00796983197453704
+2023-04-27 09:30:19.5105|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00808564485763889
+2023-04-27 09:30:29.5353|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0082016726724537
+2023-04-27 09:30:39.5467|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00831754547800926
+2023-04-27 09:30:49.5587|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00843342536921296
+2023-04-27 09:30:59.5642|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00854923011458333
+2023-04-27 09:31:09.5780|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00866512964583333
+2023-04-27 09:31:19.5881|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00878098795023148
+2023-04-27 09:31:29.6075|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00889694153009259
+2023-04-27 09:31:39.6124|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00901275031365741
+2023-04-27 09:31:49.6453|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00912887230208333
+2023-04-27 09:31:59.6630|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00924481724652778
+2023-04-27 09:32:09.6768|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00936070668981481
+2023-04-27 09:32:19.6910|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00947662333101852
+2023-04-27 09:32:29.6964|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00959242616550926
+2023-04-27 09:32:39.7043|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00970825876157407
+2023-04-27 09:32:49.7235|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00982422128703704
+2023-04-27 09:32:59.7395|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,00994014684722222
+2023-04-27 09:33:09.7574|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,01005609546875
+2023-04-27 09:33:19.7711|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0101719947453704
+2023-04-27 09:33:29.7894|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0102879467534722
+2023-04-27 09:33:39.7937|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,010403737587963
+2023-04-27 09:33:49.8014|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,010519567099537
+2023-04-27 09:33:59.8195|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0106355172083333
+2023-04-27 09:34:09.8297|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0107513765925926
+2023-04-27 09:34:19.8436|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0108672782152778
+2023-04-27 09:34:29.8476|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0109830653449074
+2023-04-27 09:34:39.8604|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0110989539537037
+2023-04-27 09:34:49.8780|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0112148986701389
+2023-04-27 09:34:59.8832|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,011330699349537
+2023-04-27 09:35:09.9076|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0114467106516204
+2023-04-27 09:35:19.9166|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0115625672905093
+2023-04-27 09:35:29.9415|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0116785967534722
+2023-04-27 09:35:39.9482|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0117944150150463
+2023-04-27 09:35:49.9644|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0119103431689815
+2023-04-27 09:35:59.9782|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0120262433090278
+2023-04-27 09:36:09.9902|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0121421228125
+2023-04-27 09:36:20.0044|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0122580285474537
+2023-04-27 09:36:30.0182|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0123739285381944
+2023-04-27 09:36:40.0229|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0124897233645833
+2023-04-27 09:36:46.1819|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 10:05:15.5074|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 10:05:15.5584|DEBUG|ServiceMobile.Service1|work
+2023-04-27 10:05:15.7015|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 10:05:15.7015|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 10:05:15.7015|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 10:05:15.7015|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 10:05:19.6332|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0323926203703704
+2023-04-27 10:05:29.6506|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0325085633344907
+2023-04-27 10:05:39.6687|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0326245131851852
+2023-04-27 10:05:49.6806|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0327403919861111
+2023-04-27 10:05:59.6887|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0328562261701389
+2023-04-27 10:06:09.7025|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0329721267094907
+2023-04-27 10:06:19.7168|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0330880332002315
+2023-04-27 10:06:29.7289|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,033203913375
+2023-04-27 10:06:39.7414|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0333197986296296
+2023-04-27 10:06:49.7540|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0334356859131944
+2023-04-27 10:06:59.7714|DEBUG|ServiceMobile.SmartMain|data=27.04.2023 9:18:40day=0,0335516283078704
+2023-04-27 10:07:06.3269|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 10:07:26.7382|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 10:07:26.7872|DEBUG|ServiceMobile.Service1|work
+2023-04-27 10:07:26.9132|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 10:07:26.9132|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 10:07:26.9132|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 10:07:26.9132|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_100852.csv
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_100852.csv
+2023-04-27 10:08:10.5916|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 10:12:53.6209|DEBUG|ServiceMobile.Service1|Стоп сервиса
+2023-04-27 10:13:14.0848|DEBUG|ServiceMobile.Service1|Старт сервиса
+2023-04-27 10:13:14.1358|DEBUG|ServiceMobile.Service1|work
+2023-04-27 10:13:14.2748|DEBUG|ServiceMobile.SmartMain|connect
+2023-04-27 10:13:14.2768|DEBUG|ServiceMobile.SmartMain|smartServer=programmist-mgn:10501/cb9a154f-34fb-4f0b-9281-20d8e24b306c
+2023-04-27 10:13:14.2768|DEBUG|ServiceMobile.SmartMain|docPath=\\\\wms-mgn.m74.local\\docs\\
+2023-04-27 10:13:14.2768|DEBUG|ServiceMobile.SmartMain|sqlServer=Data Source=ispro7srv-mgn.m74.local;Initial Catalog=dfirm002_gmk;Persist Security Info=True;User ID=sa;Password=456123
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_100852.csv
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_100852.csv
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|Документ пустой, фаил не создан
+2023-04-27 10:13:18.2188|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_101456.csv
+2023-04-27 10:14:08.3041|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_101456.csv
+2023-04-27 10:14:08.3111|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.ProductMarking=11170000000000014804
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.ProductId=19816
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.ProductName=4602 Творог     ПАКЕТ 9%  0.45
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.GetField(data)=20.04.2003 0:00:00
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.GetField(partion)=200403
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.GetField(code)=34607008053587
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.CurrentQuantity=36
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|item.Product.BasePacking.SelfWeight=0.45
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|otg=False
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|folder=IDATA95WT2637766
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|Новый файл:\\\\wms-mgn.m74.local\\docs\\IDATA95WT2637766\inv_IDATA95WT2637766_27042023_101601.csv
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|newfileName=inv_IDATA95WT2637766_27042023_101601.csv
+2023-04-27 10:16:18.4684|DEBUG|ServiceMobile.SmartMain|Записали документ
+2023-04-27 15:16:44.3358|DEBUG|ServiceMobile.Service1|Стоп сервиса
